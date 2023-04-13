@@ -1,6 +1,5 @@
 # Controlling Media Player Using Gestures.
 
-[Watch Demo Here](https://youtu.be/auBmqnNG2mQ)
 
 ## Info
 This program recognises hand gestures and controls the media player accordingly. This is done using `pyautogui` library which helps to press keys to perform 
@@ -12,25 +11,25 @@ The model is trained using the Squeezenet Model and the accuracy is almost 100%.
  
 1. **Volume Down**
 
-![down](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/down.jpg)
+![down](https://github.com/mujtbkhn/media-player-controller-using-ml/blob/master/thumbnails/down.jpg)
 
 2. **Volume Up**
 
-![up](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/up.jpg)
+![up](https://github.com/mujtbkhn/media-player-controller-using-ml/blob/master/thumbnails/up.jpg)
 
 3. **Fast Forward**
 
-![right](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/right.jpg)
+![right](https://github.com/mujtbkhn/media-player-controller-using-ml/blob/master/thumbnails/right.jpg)
 
 4. **Reverse**
 
-![left](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/left.jpg).
+![left](https://github.com/mujtbkhn/media-player-controller-using-ml/blob/master/thumbnails/left.jpg).
 
 
 ## Set up instructions
 1. Clone the repo.
 ```sh
-$ git clone https://github.com/Kaushal-Dhungel/hand_gesture_media_player.git
+$ git clone https://github.com/mujtbkhn/media-player-controller-using-ml.git
 ```
 
 2. Install the dependencies
